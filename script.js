@@ -1,6 +1,5 @@
 // Write your JavaScript code here!
 
-let faulty = false;
 let pilotName;
 let copilotName;
 let fuelLevel;
